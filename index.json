@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "arxiv2026-prefertripplan",
+  "versions": [
+    {
+      "commit": "d4b7f0cfd1d9b97165b010ba1fec08b63413bc76",
+      "tag": "",
+      "parsed_at": "2026-11-08T07:37:28.028645+00:00"
+    }
+  ]
+}
