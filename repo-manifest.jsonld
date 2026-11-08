@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/arxiv2026-prefertripplan/commit/d4b7f0cfd1d9b97165b010ba1fec08b63413bc76",
       "git:hexsha": "d4b7f0cfd1d9b97165b010ba1fec08b63413bc76",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T07:37:28.028205+00:00"
     }
   ]
 }
